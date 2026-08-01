@@ -3,7 +3,6 @@
 ## Overview
 This project is a static portfolio website hosted entirely on AWS, using **Amazon S3** for storage and **Amazon CloudFront** as a Content Delivery Network (CDN) to serve the site globally with low latency.
 
-**Live site:** https://dz3pqx895ch08.cloudfront.net/
 
 ## Architecture
 
